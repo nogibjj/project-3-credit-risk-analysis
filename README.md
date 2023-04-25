@@ -3,11 +3,11 @@
 
 ### Intro
 
-For my IDS721 individual project 3, I intend to apply big data techniques to perfrom analysis and machine learning to the Chicago Uber/Lyft Dataset. To evaluate the model's accuracy, I will be using SageMaker's Batch Transform feature to compare the predicted Boston house price with the actual median house price. In addition, I plan to use S3 to store the data securely in the cloud.
+For my IDS721 individual project 3, I use AWS sagemaker.
 
 
 ### Data
-The Transportation Network Providers (TNP) Trips dataset on data.cityofchicago.org is a public resource that contains information on trips made by Transportation Network Providers such as Uber and Lyft in the City of Chicago. This dataset includes detailed trip-level data, such as pick-up and drop-off times, trip distances, and fares, for trips that occurred between November 2018 and February 2019. By analyzing this dataset, one can gain insights into the usage patterns of these popular ride-hailing services in Chicago, and potentially identify areas for optimization and improvement in the transportation system.
+
 
 ### Sagamaker and S3 Steps:
 1. Prepare your data: You will need to make sure your data is in a suitable format for SageMaker and upload it to an S3 bucket.
