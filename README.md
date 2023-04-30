@@ -1,12 +1,15 @@
 [![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml)
-## IDS721- Project 3
+
+## IDS721 Project 3: Credit Risk Analysis with XGboost in SageMaker
+
+This project is Cloud based Big Data Systems Project, which is designed to to apply a major Big Data system to perform a Data Engineering related task. 
+Example systems could be: (AWS Athena, AWS Spark/EMR, AWS Sagemaker, Databricks, Snowflake).
 
 ### Intro
-
-For my IDS721 individual project 3, I use AWS sagemaker.
-
+In this project, I explore a common business problem faced by banks and financial institutions - predicting credit risk. I build an XGBoost model to predict whether a loan applicant is likely to default on their loan or not. I use Amazon SageMaker to train and deploy our model.
 
 ### Data
+The credit risk dataset contains information about loan applicants, including their age, sex, income, loan amount, and whether they defaulted on their loan or not. It could be a good resource for building and testing credit risk models.
 
 
 ### Sagamaker and S3 Steps:
