@@ -11,6 +11,10 @@ In this project, I explore a common business problem faced by banks and financia
 ### Data
 The credit risk dataset contains information about loan applicants, including their age, sex, income, loan amount, and whether they defaulted on their loan or not. It could be a good resource for building and testing credit risk models.
 
+### Demo
+![image](imgs/s3.png)
+![image](imgs/notebook.png)
+
 
 ### Sagamaker and S3 Steps:
 1. Prepare your data: You will need to make sure your data is in a suitable format for SageMaker and upload it to an S3 bucket.
